@@ -1,0 +1,11 @@
+C:\Projects\Demo\StringManipulationSMS\StringManipulationSMS\bin\Debug\netcoreapp3.1\StringManipulationSMS.exe
+C:\Projects\Demo\StringManipulationSMS\StringManipulationSMS\bin\Debug\netcoreapp3.1\StringManipulationSMS.deps.json
+C:\Projects\Demo\StringManipulationSMS\StringManipulationSMS\bin\Debug\netcoreapp3.1\StringManipulationSMS.runtimeconfig.json
+C:\Projects\Demo\StringManipulationSMS\StringManipulationSMS\bin\Debug\netcoreapp3.1\StringManipulationSMS.runtimeconfig.dev.json
+C:\Projects\Demo\StringManipulationSMS\StringManipulationSMS\bin\Debug\netcoreapp3.1\StringManipulationSMS.dll
+C:\Projects\Demo\StringManipulationSMS\StringManipulationSMS\bin\Debug\netcoreapp3.1\StringManipulationSMS.pdb
+C:\Projects\Demo\StringManipulationSMS\StringManipulationSMS\obj\Debug\netcoreapp3.1\StringManipulationSMS.csprojAssemblyReference.cache
+C:\Projects\Demo\StringManipulationSMS\StringManipulationSMS\obj\Debug\netcoreapp3.1\StringManipulationSMS.AssemblyInfoInputs.cache
+C:\Projects\Demo\StringManipulationSMS\StringManipulationSMS\obj\Debug\netcoreapp3.1\StringManipulationSMS.AssemblyInfo.cs
+C:\Projects\Demo\StringManipulationSMS\StringManipulationSMS\obj\Debug\netcoreapp3.1\StringManipulationSMS.dll
+C:\Projects\Demo\StringManipulationSMS\StringManipulationSMS\obj\Debug\netcoreapp3.1\StringManipulationSMS.pdb
